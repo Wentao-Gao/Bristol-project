@@ -10,7 +10,7 @@ Exam:
 
 ## Intro to AI
 
-Coursework: 05/11
+[Coursework](https://github.com/gwt9970161/Bristol-project/blob/main/IntroAICoursework2022.pdf): 05/11
 
 Exam: 
 
