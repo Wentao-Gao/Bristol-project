@@ -8,6 +8,8 @@ This is some project I finish in The University of Bristol
  
 presentation: [coursework guidence](https://uwe.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=55ed0487-cc48-4d97-ab53-ae4a00fe8a1a&instance=Blackboard)
 
+[file](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgwt9970161%2FBristol-project%2Fmain%2FCW---%2520guidance%2520to%2520complete%2520(1).pptx&wdOrigin=BROWSELINK)
+
 ### Exam:
 
 ## Intro to AI
